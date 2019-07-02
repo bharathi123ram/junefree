@@ -22,6 +22,10 @@ public class testone {
 	    {
 	        System.out.println("Entered number is odd");
 	  }
-	    System.out.println("test");
+
+	    System.out.println("done");
+
+System.out.println("test");
+
 	  }
 }
