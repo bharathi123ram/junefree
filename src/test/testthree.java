@@ -17,6 +17,8 @@ public class testthree {
 			
 			
 		}
+		
+		System.out.println("End of program");
 	}
 
 	
