@@ -12,15 +12,15 @@ public class testthree {
 			t=num+num1+num2;
 			System.out.println(t);
 			num=num1;
-			num1=t;
-			
-			
-			
+			num1=num2;
+			num2=t;
 		}
+		System.out.println("Addition Operation");
 		System.out.println("ending the program");
 		System.out.println("End of program");
 		
 		System.out.println("git");
+		
 	}
 
 	
