@@ -3,7 +3,7 @@ package test;
 public class testthree {
 
 	public static void main(String[] args) {
-		int num=0,num1=1,num=2;
+		int num=0,num1=1,num2=2;
 		int t;
 		System.out.println(num);
 		System.out.println(num1);
